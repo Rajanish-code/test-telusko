@@ -7,6 +7,7 @@ public class Main{
         int a = Input.nextInt();
         int b = Input.nextInt();
         int c = a + b;
-        System.out.print(c);
+        System.out.print(c); 
+        System.out.println("hii");
     }
 }
